@@ -1,0 +1,74 @@
+{
+  "Taxes": 9426,
+  "System": "Sabre",
+  "Carrier": "EK",
+  "NetFare": 143059.99,
+  "OfferId": "b95bbeab-0943-4c7b-bf73-c443f46e01f3",
+  "BaseFare": 37791,
+  "FareType": "Regular",
+  "ResultId": "",
+  "TripType": "Oneway",
+  "Comission": -11,
+  "GrossFare": 143059.99,
+  "Cabinclass": "Economy",
+  "FarePolicy": "sito",
+  "IsBookable": true,
+  "Refundable": false,
+  "AllLegsInfo": [
+    {
+      "ArrTo": "DXB",
+      "DepDate": "2024-05-23",
+      "DepFrom": "DAC",
+      "Duration": 300,
+      "Segments": [
+        {
+          "ArrTo": "DXB",
+          "ArrTime": "2024-05-23T13:15:00+04:00",
+          "DepFrom": "DAC",
+          "DepTime": "2024-05-23T10:15:00+06:00",
+          "Duration": 300,
+          "StopCount": 0,
+          "ArrAirPort": "Dubai International Airport",
+          "DepAirPort": "Hazrat Shahjalal International Airport",
+          "OperatedBy": "Emirates",
+          "ArrLocation": "AE",
+          "ArrivalGate": "3",
+          "DepLocation": "BD",
+          "HiddenStops": [],
+          "SegmentCode": {
+            "mealCode": "M",
+            "cabinCode": "Y",
+            "bookingCode": "L",
+            "fareBreakPoint": true,
+            "seatsAvailable": 1,
+            "availabilityBreak": true
+          },
+          "DepartureGate": "1",
+          "TotalMilesFlown": 2202,
+          "AircraftTypeName": "77W",
+          "MarketingCarrier": "EK",
+          "OperatingCarrier": "EK",
+          "ArrDateAdjustment": 0,
+          "DepDateAdjustment": 0,
+          "MarketingCarrierName": "Emirates",
+          "OperatingCarrierName": "Emirates",
+          "MarketingFlightNumber": 583,
+          "OperatingFlightNumber": 583
+        }
+      ]
+    }
+  ],
+  "CarrierName": "Emirates",
+  "IssuePermit": "manual",
+  "InstantPayment": false,
+  "PriceBreakDown": [
+    {
+      "Bag": [{ "Airline": "EK", "Allowance": "40 KG" }],
+      "Taxes": 9426,
+      "PaxType": "ADT",
+      "BaseFare": 37791,
+      "PaxCount": 1,
+      "TotalFare": 47217
+    }
+  ]
+}
